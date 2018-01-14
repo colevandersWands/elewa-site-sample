@@ -1,4 +1,4 @@
-<a href="http://elewa.education" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34920911-d6486d02-f97a-11e7-8b65-ab92ea2408aa.jpg" width="50" height="40"/>  Welcome to Elewa! </a>
+
 
 Index
 * [developing for developers](./1-developing-for-developers.md)
