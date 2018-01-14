@@ -1,0 +1,74 @@
+message
+	intro - 3 audiences
+	depth - dev audience
+		- "source code should be an application, working code is not always finished code.  UI is the repo, UX is the function calls"
+		UX 
+			trustable
+				tests and testable
+			usable
+				code "surface" is intuitive
+			understandable
+				make your reasoning clear
+				make your code readable
+				provide levels of readability
+			maintainable
+				everything above again
+				modular
+		UI
+			layers of accessibility in the repo
+				- each layer should serve a purpose
+				- someone wishing for that purpose should need to go no deeper
+				repository/readme
+				branches/releases/commits
+				documentation/tests
+				files/folders
+				variable names
+				logic itself
+		make your github your portfolio
+
+
+
+audience
+	interested student
+	no experience in code necessary
+	someone trying to understand our core message
+
+
+structure
+	a click-navigable repository - walk the walk
+	|- readme
+	|	+ coding is communication, the three audiences, this focuses on the developer audience, how to navigate this repo, index
+	|- developing for developers
+	|	+ more time reading and maintaining than writing (coding horror articles), source code is an application for other developers
+	|- source code UI
+	|	+ see notes in "message"
+	|- source code UX
+	|	+ see notes in "message"
+	|- challenge
+		+ take some working code of yours and make it such a repo, examples (lodash, express, https://github.com/sindresorhus/cows, ** https://github.com/SkyHacks/nerds **)(of course there is some extra convention to understanding these repos)
+
+
+eventually
+	link to precourse and elewa-student portfolio
+
+
+
+
+elements
+	more
+		- testing (add tests as documentation)?  -  https://github.com/jankeLearning/preview/blob/master/nodes/markdown/testing-101.md
+		- existing "entry"  -  https://github.com/jankeLearning/preview/tree/master/nodes/entry
+		- readable code?  -  https://github.com/jankeLearning/preview/blob/master/nodes/markdown/friendly-code.md
+		- reading source code?  - https://github.com/jankeLearning/preview/blob/master/nodes/worked-example/repoing/05-navigating-codebase.md
+	less
+		- specs?  -  https://github.com/jankeLearning/preview/blob/master/nodes/markdown/specs.md
+		- pure functions  - https://github.com/jankeLearning/preview/blob/master/nodes/markdown/pure-functions.md
+	aditional reading
+		whatever's already there
+		writing friendly code
+			clean coder book
+		design thinking
+			don't make me think - your source code should have good UX
+			ux vs ui - https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/
+
+
