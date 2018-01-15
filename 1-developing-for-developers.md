@@ -1,4 +1,5 @@
 
+
 how do developers spend their time?
 
 see entry node
@@ -24,7 +25,6 @@ bit about how to do that
 design thinking 
 
 conceptual integrity 
-
 
 [back to index](./README.md/#index)
 ___
