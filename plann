@@ -45,7 +45,7 @@ structure
 	|- source code UX
 	|	+ see notes in "message"
 	|- challenge
-		+ take some working code of yours and make it such a repo, examples (lodash, express, https://github.com/sindresorhus/cows, ** https://github.com/SkyHacks/nerds **)(of course there is some extra convention to understanding these repos)
+		+ take some working code of yours and make it such a repo, examples 
 
 
 eventually
@@ -55,16 +55,9 @@ eventually
 
 
 elements
-	more
-		- testing (add tests as documentation)?  -  https://github.com/jankeLearning/preview/blob/master/nodes/markdown/testing-101.md
-		- existing "entry"  -  https://github.com/jankeLearning/preview/tree/master/nodes/entry
-		- readable code?  -  https://github.com/jankeLearning/preview/blob/master/nodes/markdown/friendly-code.md
-		- reading source code?  - https://github.com/jankeLearning/preview/blob/master/nodes/worked-example/repoing/05-navigating-codebase.md
-	less
-		- specs?  -  https://github.com/jankeLearning/preview/blob/master/nodes/markdown/specs.md
-		- pure functions  - https://github.com/jankeLearning/preview/blob/master/nodes/markdown/pure-functions.md
 	aditional reading
 		whatever's already there
+		dev vs programmer
 		writing friendly code
 			clean coder book
 		design thinking
